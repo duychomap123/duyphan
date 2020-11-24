@@ -1,0 +1,688 @@
+7
+9 11 2001
+Phan Khanh Duy
+Nam
+Khanh Hoa
+Cong nghe thong tin
+3
+Cau truc du lieu va giai thuat
+10
+3
+Lap trinh huong doi tuong
+9.6
+3
+Toan roi rac
+9.7
+3
+4
+6
+9 12 2001
+Phan Khanh Duy
+Nam
+Long an
+Cong nghe thong tin
+3
+Lap trinh huong doi tuong
+9
+3
+Thiet ke Web
+8
+3
+Bao tri he thong
+9.3
+2
+3.688
+11
+10 11 2001
+Phan Khanh Duy
+Nam
+Long an
+Cong nghe thong tin
+2
+Kien truc va to chuc may tinh
+10
+3
+CTDL&GT
+8.1
+3
+3.75
+8
+7 11 2001
+Phan Khanh Duy
+Nam
+Thanh pho Ho Chi Minh
+Cong nghe thong tin
+5
+CTDL&GT
+6.7
+3
+TKWeb
+7.3
+3
+BTHT
+5.3
+2
+GDTC F2 
+3.7
+1
+KT&TCMT
+7.8
+3
+2.417
+10
+11  9 2001
+Phan Khanh Duy
+Nam
+Ben Tre
+Ki thuat dien
+4
+Unknown 1
+7.4
+2
+Unknown 2
+3.2
+3
+GDTC F2
+6.8
+1
+TTHCM
+5.3
+3
+1.611
+5
+5  3 2001
+Nguyen Huu An
+Nam
+Quang Ngai
+Cong nghe thong tin 
+4
+Giao duc the chat F2
+7.2
+1
+Giai tich 2
+9.4
+3
+Vat ly dien tu
+6.9
+3
+Toan roi rac
+7.4
+3
+3.54
+14
+24  2 2001
+Nguyen Van Duan
+Nam
+Nam Dinh
+Cong nghe thong tin
+4
+Giao duc the chat F2 (Bong chuyen)
+6.3
+1
+Ky nang mem
+6
+3
+Lap trinh nang cao
+6.4
+3
+Kinh te chinh tri
+7.9
+2
+2.833
+19
+7  7 2001
+Nguyen Thanh Duong
+Nam
+Quang Binh
+Cong nghe thong tin
+4
+Bao tri he thuong
+8.3
+2
+GDTC F2 (Bong chuyen)
+6.2
+1
+Lap trinh huong doi tuong
+9.1
+3
+Toan roi rac
+7.3
+3
+3.322
+21
+7 10 2001
+Phan Khanh Duy
+Nam
+Long An
+TDH
+4
+XSTK
+2.4
+2
+GT 2
+3.1
+3
+GDTC F2
+6
+1
+CNXH-KH
+7.2
+2
+1.375
+22
+16  3 2001
+Pham Nguyen Trung An
+Nam
+Dak Lak
+Cong nghe thong tin
+4
+LTHDT
+9.2
+3
+Kien truc va to chuc may tinh
+8.1
+3
+Giao duc  the chat F2 (Bong ro)
+7.1
+1
+Bao tri he thong
+6.4
+2
+3.322
+2
+29  5 2001
+Nguyen Thi An
+Nu
+Binh Thuan
+Khai thac van tai 1
+6
+Tu tuong Ho Chi Minh
+7.9
+3
+Tam ly hoc quan ly
+4.9
+2
+Tin hoc dai cuong
+6.6
+3
+Giao duc the chat F2 (Bong Chuyen)
+5.9
+1
+Ky nang mem 
+8.2
+2
+Dia ly giao thong van tai
+9.4
+2
+3.162
+3
+9 12 2001
+Phan Khanh Duy
+Nam
+Long an
+Cong nghe thong tin
+3
+LTHDT
+9
+3
+TKWeb
+8
+3
+BTHT
+9.3
+2
+3.688
+4
+10 11 2001
+Phan Khanh Duy
+Nam
+Long an
+Cong nghe thong tin
+2
+KT&TCMT
+10
+3
+CTDL&GT
+8.1
+3
+3.75
+18
+2 10 2001
+Phan Khanh Duy
+Nam
+Thanh pho Ho Chi Minh
+Cong nghe thong tin
+5
+Thiet ke Web
+6.7
+3
+Toan roi rac
+7.3
+3
+BTHT
+5.3
+2
+GDTC F2 
+3.7
+1
+KT&TCMT
+7.8
+3
+2.417
+17
+11  9 2001
+Phan Khanh Duy
+Nam
+Quang Tri
+Ki thuat dien
+4
+Unknown 1
+7.4
+2
+Unknown 2
+3.2
+3
+GDTC F2
+6.8
+1
+Unknown 3
+5.3
+3
+1.611
+12
+5  1 2001
+Nguyen Huu An
+Nam
+Quang Tri
+Cong nghe thong tin 
+4
+Giao duc the chat F2 (Bong chuyen)
+7.2
+1
+Giai tich 2
+6.9
+3
+Vat ly dien tu
+9.4
+3
+Lap trinh nang cao
+7.4
+3
+3.54
+13
+24  3 2001
+Nguyen Van Duan
+Nam
+Nam Dinh
+Cong nghe thong tin
+4
+Giao duc the chat F2 (Bong chuyen)
+6.3
+1
+Ky nang mem
+6.4
+3
+Tin hoc dai cuong
+6
+3
+Kinh te chinh tri
+7.9
+2
+2.833
+20
+9  3 2001
+Nguyen Thanh Duong
+Nam
+Quang Binh
+Cong nghe thong tin
+4
+Giai tich so
+8.3
+2
+GDTC F2 (Bong ro)
+6.2
+1
+LTHDT
+7.3
+3
+TRR
+9.1
+3
+3.322
+9
+3 11 2001
+Phan Khanh Duy
+Nam
+Ben Tre
+Ky thuat dien
+4
+XSTK
+2.4
+2
+GT 2
+3.1
+3
+GDTC F2 (Bong ro)
+6
+1
+CNXH-KH
+7.2
+22
+1.375
+23
+26  8 2001
+Phan Nguyen Trung Anh
+Nam
+Ba ria - Vung tau
+Cong nghe thong tin
+4
+LTHDT
+9.2
+3
+Kien truc va to chuc may tinh
+8.1
+3
+Giao duc  the chat F2
+7.1
+1
+Giai tich so
+6.4
+2
+3.322
+16
+29  5 2001
+Nguyen Ngoc Anh
+Nu
+Khanh Hoa
+Khai thac van tai 1
+6
+Tu tuong Ho Chi Minh
+6.6
+3
+Tam ly hoc quan ly
+4.9
+2
+Tin hoc dai cuong
+7.9
+3
+Giao duc the chat F2 (Bong Chuyen)
+5.9
+1
+Ky nang mem 
+9.4
+2
+Dia ly giao thong van tai
+8.2
+2
+3.162
+1
+14  4 2001
+Nguyen Thi Truc
+Nu
+An Giang
+Kinh te buu chinh vien thong
+5
+Khoa hoc quan ly
+3.7
+2
+Kinh te hoc
+7.2
+4
+Ky nang mem
+7.3
+2
+Tin hoc dai cuong
+5.7
+3
+Triet hoc
+8.3
+3
+2.536
+15
+6  9 2001
+Nguyen Thi Thu Huong
+Nu
+Long An
+Ke toan tong hop
+8
+Giao duc the chat F2
+8.1
+1
+Kinh te vi mo
+8.7
+3
+Ky nang mem
+10
+2
+Marketing can ban
+8.6
+3
+Phap luat kinh te
+8.7
+2
+Quan tri hoc
+7.9
+2
+Tin hoc dai cuong
+7.4
+3
+Xac xuat, thong ke
+10
+2
+3.717
+25
+1  1 2001
+Pham Chi Bao
+Nam
+Binh Dinh
+Ky thuat xay dung CTGT 1
+4
+Chu nghia xa hoi khoa hoc
+0.2
+2
+Giao duc the chat F2 (Bong ro)
+0
+1
+Kinh te chinh tri - Mac Lenin
+2.1
+2
+Suc ben vat lieu F1
+0
+3
+0.125
+27
+10 11 2001
+Tran Thi Hien
+Nu
+Lam Dong
+Ke toan tong hop
+6
+Giao duc the chat F2
+5.1
+1
+Kinh te vi mo
+8.7
+3
+Ky nang mem
+6.7
+2
+Marketing can ban
+7.8
+3
+Phap luat kinh te
+5.6
+2
+Xac xuat, thong ke
+9.1
+2
+2.962
+24
+5 10 2001
+Tran Thi Le Giang
+Nu
+Long An
+Ke toan tong hop
+5
+Giao duc the chat F2
+7.6
+1
+Kinh te vi mo
+8.8
+3
+Ky nang mem
+7.6
+2
+Marketing can ban
+8.9
+3
+Phap luat kinh te
+7.7
+2
+3.436
+28
+6  5 2001
+Nguyen Thi Ngoc Han
+Nu
+Binh Dinh
+Quan tri kinh doanh
+6
+Kinh te vi mo
+8.8
+3
+Kinh te vi~ mo
+8.6
+3
+Ky nang lam viec nhom
+7.3
+2
+Phap luat dai cuong
+7.7
+2
+Tin hoc dai cuong
+7.4
+3
+Triet hoc
+8.1
+3
+3.394
+26
+18  7 2001
+Do Tan Cam
+Nam
+Quang Ngai
+Ky thuat xay dung CTGT 1
+6
+Chu nghia xa hoi khoa hoc
+4.4
+2
+Giao duc the chat F2 (Boi loi)
+5.8
+1
+Giai tich 2
+5.1
+3
+Suc ben vat lieu F1
+3.1
+3
+Thuc tap xuong
+6.4
+1
+Ve ky thuat F2 (BTL)
+0.7
+2
+1.542
+29
+4 12 2001
+Nguyen Thi Xuan Mai
+Nu
+Tay Ninh
+Ky thuat dien tu vien thong
+5
+Chu nghia xa hoa khoa hoc
+5.2
+2
+Giai tich 2
+5.3
+3
+Kinh te chinh tri - Mac Lenin
+7
+2
+Ky nang mem
+7.5
+2
+Xac xuat thong ke
+5.3
+2
+2.045
+32
+17  4 2001
+Nguyen Thanh Duong
+Nam
+Kien Giang
+Cong nghe thong tin
+6
+Giao duc the chat F2 (Boi loi)
+4.1
+1
+Toan roi rac
+9.9
+3
+Thiet ke Web
+6.2
+3
+Tu tuong Ho Chi Minh
+6.1
+3
+Lap trinh huong doi tuong
+7.7
+3
+Giai tich so
+5.5
+2
+2.733
+31
+6  8 2001
+Phan Nguyen Trung Anh
+Nam
+Quang Ngai
+Cong nghe thong tin
+5
+Giao duc the chat (Bong ro)
+8.1
+1
+Bao tri he thong
+6.3
+2
+Thiet ke Web
+7.4
+3
+Lap trinh huong doi tuong
+9.2
+3
+Tu tuong Ho Chi Minh
+6.6
+3
+3.033
+30
+22 11 2001
+Nguyen Van Duan
+Nam
+Phu Yen
+Cong nghe thong tin
+5
+Giao duc the chat F2
+7.4
+1
+Giai tich 2
+6.4
+3
+Toan roi rac
+9.5
+3
+Cau truc du lieu va giai thuat
+8.3
+3
+Giai tich so
+5.6
+2
+3.083
